@@ -1,0 +1,4 @@
+variables:
+- team: workshop-cbees
+- admin-user: cc-crisan-admin
+- manager-user: cc-crisan
